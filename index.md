@@ -1,4 +1,4 @@
-<span style="color:white"> #Arkadiusz Paterak </span>
+<span style="color:white"> Arkadiusz Paterak </span>
 
 # About me
 
