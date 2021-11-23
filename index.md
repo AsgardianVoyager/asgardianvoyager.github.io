@@ -1,6 +1,5 @@
-###### Arkadiusz Paterak
+<span style="color:white"> #Arkadiusz Paterak </span>.
 
-----
 # About me
 
 I study Computer Science and I am entering the world of programming
