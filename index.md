@@ -2,8 +2,9 @@
 
 # About me
 
-I study Computer Science and I am entering the world of programming
+I study Computer Science and I'm entering the world of programming.
 
+----
 # My project - the Battleships game
 The goal of the project was creating a variation of the popular battleships game. We used C programming language. This project was part of our work during an univeristy course "Narzędzia informatyczne" (IT tools). During our cooperation we succeeded in developing the project to satisfactory stage as a team. We hope that You will enjoy playing our game 🙂
 
